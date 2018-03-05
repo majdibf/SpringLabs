@@ -52,7 +52,7 @@ under the License.
    | Default: ${user.home}/.m2/repository
   <localRepository>/path/to/local/repo</localRepository>
   -->
-  <localRepository>D:\GitRepositories\SpringLabs\mvc_client_cat\MavenLocalRepository</localRepository>
+  <localRepository>D:\Tools\LocalRepositoryMaven</localRepository>
 
   <!-- interactiveMode
    | This will determine whether maven prompts you when it needs input. If set to false,
